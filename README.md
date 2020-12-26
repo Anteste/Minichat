@@ -1,2 +1,2 @@
 # Minichat
-This was My first PHP Project in 2018
+This was my first PHP Project in 2018
